@@ -16,7 +16,9 @@ This project is a dynamic product page built using HTML, CSS, and JavaScript. It
 
 ## Screenshots
 
-![Product Page Screenshot](screenshot.png)
+![image](https://github.com/satyamkumar420/product_page/assets/98641231/94afd5cb-950f-4328-b6a8-e7aae818baf0)
+
+
 
 ## Code Structure
 
