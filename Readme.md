@@ -18,16 +18,8 @@ This project is a dynamic product page built using HTML, CSS, and JavaScript. It
 
 ![image](https://github.com/satyamkumar420/product_page/assets/98641231/94afd5cb-950f-4328-b6a8-e7aae818baf0)
 
-
-
 ## Code Structure
 
 - `index.html`: Contains the HTML structure.
 - `styles.css`: Contains the CSS styles for the page.
 - `script.js`: Contains the JavaScript code for DOM manipulation, filtering, and sorting.
-
-## Future Improvements
-
-- Add search functionality.
-- Implement pagination for large lists of products.
-- Improve styling and animations.
